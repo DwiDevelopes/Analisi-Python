@@ -1,5 +1,5 @@
 # Analisi-Python
-
+<img src = "analisi.jpg" width="100%" height= "100%">
 **Analisi-Python** adalah proyek Python yang berfokus pada analisis data berbasis tanggal. Proyek ini dirancang untuk membantu pengguna dalam memproses, memvisualisasikan, dan menganalisis data waktu (time-series) menggunakan pustaka Python populer seperti `pandas`, `datetime`, dan `matplotlib`.
 
 ## 📌 Fitur Utama
